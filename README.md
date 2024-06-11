@@ -20,7 +20,7 @@ I'm currently an IT Staff at IDN Polytechnic, where I work on various exciting p
 
 ### 🏆 Achievements
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=numen111104&theme=tokyonight&no-bg=true&no-frame=true&row=1" width='40%' />
+<img src="https://github-profile-trophy.vercel.app/?username=numen111104&theme=tokyonight&no-bg=true&no-frame=true&row=1" width='100%' />
 </p>
 ---
 
