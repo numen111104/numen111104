@@ -1,15 +1,60 @@
-## Hi there 👋
+## Hi there, I'm Numen! 👋
 
+![Profile Banner](https://your-image-link.com/banner.jpg)
 
-<!-- **numen111104/numen111104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+I'm currently an IT Staff at IDN Polytechnic, where I work on various exciting projects. I have a passion for technology and am constantly exploring new areas, including mobile app development and machine learning.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on IDN Polythechnic as IT Staff
-- 🌱 I’m currently learning Mobile App with Flutter and Machine Learning
-- 🤔 I’m looking for help with AI Enthusiast
-- ⚡ Fun fact: I'm Single
+### 🌟 About Me
+- 🔭 **Current Position:** IT Staff at **IDN Polytechnic**
+- 🌱 **Learning:** Mobile App Development with **Flutter** and **Machine Learning**
+- 🤔 **Looking For Help:** Always keen to connect with fellow **AI Enthusiasts**
+- ⚡ **Fun Fact:** I'm **Single** and enjoying the tech journey!
 
-![numen111104's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=numen111104&theme=kacho_ga&show_icons=true&hide_border=true&layout=compact)
+---
 
-![numen111104's Stats](https://github-readme-stats.vercel.app/api?username=numen111104&theme=kacho_ga&show_icons=true&hide_border=true&count_private=true)
+### 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=numen111104&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=numen111104&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=numen111104&theme=tokyonight&hide_border=true)
+
+---
+
+### 🚀 Contributions
+
+![Contributions Graph](https://github-readme-activity-graph.cyclic.app/graph?username=numen111104&theme=tokyo-night&hide_border=true)
+
+---
+
+### 🏆 Achievements
+
+![Achievements](https://github-profile-trophy.vercel.app/?username=numen111104&theme=tokyonight&no-bg=true&no-frame=true&row=1)
+
+---
+
+### 📈 Contribution Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=numen111104&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=numen111104&theme=tokyonight&layout=compact&hide_border=true" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=numen111104&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=numen111104&theme=tokyo-night&hide_border=true" width="48%" />
+</p>
+
+---
+
+### 📬 Let's Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/your-profile/)
+- [Twitter](https://twitter.com/your-profile/)
+- [Personal Website](https://your-website.com)
+
+---
+
+![Footer](https://your-image-link.com/footer.jpg)
