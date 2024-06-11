@@ -1,5 +1,3 @@
-## Hi there, I'm Numen! 👋
-
 <p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=numen111104&txt=A%20Full%20Stack%20Web%20&%20Mobile%20Apps%20)"></p>
 
 I'm currently an IT Staff at IDN Polytechnic, where I work on various exciting projects. I have a passion for technology and am constantly exploring new areas, including mobile app development and machine learning.
