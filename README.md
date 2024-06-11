@@ -1,4 +1,4 @@
-## Hi there, I'm Numen! 👋
+![image](https://github.com/numen111104/numen111104/assets/101313967/0c0c4869-6228-471f-af70-c2a14ac48da4)## Hi there, I'm Numen! 👋
 
 ![Profile Banner](https://your-image-link.com/banner.jpg)
 
