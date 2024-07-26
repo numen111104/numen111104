@@ -37,10 +37,4 @@ I'm currently an IT Staff at IDN Polytechnic, where I work on various exciting p
 
 ### 📬 Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile/)
-- [Twitter](https://twitter.com/your-profile/)
-- [Personal Website](https://your-website.com)
-
----
-
-![Footer](https://your-image-link.com/footer.jpg)
+- [LinkedIn]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/numan-nasyar-mz/))
