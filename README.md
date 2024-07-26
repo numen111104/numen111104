@@ -10,10 +10,6 @@ I'm currently an IT Staff at IDN Polytechnic, where I work on various exciting p
 - 🤔 **Looking For Help:** Always keen to connect with fellow **AI Enthusiasts**
 - ⚡ **Fun Fact:** I'm **Single** and enjoying the tech journey!
 
-### 🚀 Contributions
-
-![Contributions Graph](https://github-readme-activity-graph.cyclic.app/graph?username=numen111104&theme=tokyo-night&hide_border=true)
-
 ---
 
 ### 🏆 Achievements
