@@ -31,6 +31,16 @@ I'm currently an IT Staff at IDN Polytechnic, where I work on various exciting p
 
 ---
 
+### 🔰 Codeium Stats
+<p align="center">
+  <img src="https://codeium.com/profile/numenide/card.png" width="100%" />
+</p>
+<p align="center">
+  [![streak](https://codeium.com/badges/v2/user/numenide/streak)](https://codeium.com/profile/numenide)
+  [![autocomplete](https://codeium.com/badges/user/numenide/autocomplete)](https://codeium.com/profile/numenide)
+</p>
+
+
 ### 📬 Let's Connect!
 
 - [LinkedIn]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/numan-nasyar-mz/))
