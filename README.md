@@ -1,10 +1,14 @@
-<p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=numen111104&txt=A%20Full%20Stack%20Web%20&%20Mobile%20Apps%20)"></p>
+<p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=numen111104&txt=A%20Full%20Stack%20Web%20&%20Mobile%20Apps%20)" width='100%'></p>
 
 I'm currently an IT Staff at IDN Polytechnic, where I work on various exciting projects. I have a passion for technology and am constantly exploring new areas, including mobile app development and machine learning.
 
 ---
 
 ### 🌟 About Me
+<p align="center">
+  <img src="https://codeium.com/profile/numenide/card.png" width="100%" />
+</p>
+
 - 🔭 **Current Position:** IT Staff at **IDN Polytechnic**
 - 🌱 **Learning:** Mobile App Development with **Flutter** and **Machine Learning**
 - 🤔 **Looking For Help:** Always keen to connect with fellow **AI Enthusiasts**
@@ -31,14 +35,9 @@ I'm currently an IT Staff at IDN Polytechnic, where I work on various exciting p
 
 ---
 
-### 🔰 Codeium Stats
-<p align="center">
-  <img src="https://codeium.com/profile/numenide/card.png" width="100%" />
-</p>
-<p align="center">
-  [![streak](https://codeium.com/badges/v2/user/numenide/streak)](https://codeium.com/profile/numenide)
-  [![autocomplete](https://codeium.com/badges/user/numenide/autocomplete)](https://codeium.com/profile/numenide)
-</p>
+### 🔰 Codeium Badges
+[![Streak](https://codeium.com/badges/v2/user/numenide/streak)](https://codeium.com/profile/numenide)
+[![Autocomplete](https://codeium.com/badges/user/numenide/autocomplete)](https://codeium.com/profile/numenide)
 
 
 ### 📬 Let's Connect!
