@@ -36,7 +36,6 @@ I'm currently an IT Staff at IDN Polytechnic, where I work on various exciting p
 ---
 
 ### 🔰 Codeium Badges
-[![Streak](https://codeium.com/badges/user/numenide/streak)](https://codeium.com/profile/numenide)
 [![Autocomplete](https://codeium.com/badges/user/numenide/autocomplete)](https://codeium.com/profile/numenide)
 
 
