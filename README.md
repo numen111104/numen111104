@@ -130,9 +130,22 @@ Currently based in Indonesia and actively targeting **remote engineering roles a
 
 [![Skills](https://skillicons.dev/icons?i=vue,tailwind,alpinejs,ts,js&theme=dark)](https://skillicons.dev)
 
+**Backend as a Service**
+
+[![Skills](https://skillicons.dev/icons?i=supabase,firebase&theme=dark)](https://skillicons.dev)
+
 **Infrastructure & Tooling**
 
 [![Skills](https://skillicons.dev/icons?i=docker,nginx,linux,git,vite&theme=dark)](https://skillicons.dev)
+
+**Cloud & Hosting**
+
+[![Skills](https://skillicons.dev/icons?i=aws,gcp&theme=dark)](https://skillicons.dev)
+
+![Alibaba Cloud](https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white)
+![aaPanel](https://img.shields.io/badge/aaPanel-20A53A?style=flat-square&logo=linux&logoColor=white)
+![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white)
+![HestiaCP](https://img.shields.io/badge/HestiaCP-3794D4?style=flat-square&logoColor=white)
 
 <br/>
 
@@ -146,6 +159,29 @@ Currently based in Indonesia and actively targeting **remote engineering roles a
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![dbdiagram](https://img.shields.io/badge/dbdiagram.io-2C3E50?style=flat-square&logo=databricks&logoColor=white)
+![Google Search Console](https://img.shields.io/badge/Search_Console-4285F4?style=flat-square&logo=googlesearchconsole&logoColor=white)
+
+<br/>
+
+**AI Tools I Work With**
+
+![Claude](https://img.shields.io/badge/Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-0D6EFD?style=flat-square&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
+
+<br/>
+
+**Terminal & Dev Environment**
+
+[![Skills](https://skillicons.dev/icons?i=bash&theme=dark)](https://skillicons.dev)
+
+![iTerm2](https://img.shields.io/badge/iTerm2-000000?style=flat-square&logo=iterm2&logoColor=white)
+![Git Bash](https://img.shields.io/badge/Git_Bash-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
