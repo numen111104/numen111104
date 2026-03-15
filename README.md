@@ -187,8 +187,8 @@ Currently based in Indonesia and actively targeting **remote engineering roles a
 <sub><b>aaPanel</b></sub>
 </td>
 <td align="center" width="80">
-<img src="https://cdn.simpleicons.org/hestiacp/3794D4" width="48" height="48"/><br/>
-<sub><b>HestiaCP</b></sub>
+<img src="https://cdn.simpleicons.org/cloudpanel/00A1E0" width="48" height="48"/><br/>
+<sub><b>CloudPanel</b></sub>
 </td>
 </tr>
 <tr>
