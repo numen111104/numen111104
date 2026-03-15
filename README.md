@@ -1,13 +1,16 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nu'man%20Nasyar%20MZ&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Engineer%20%C2%B7%20SaaS%20Builder%20%C2%B7%20Applied%20AI&descAlignY=58&descSize=18" width="100%" />
+
 <div align="center">
 
-# Numan Nasyar MZ
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=540&lines=Building+real+products%2C+not+tutorials.;Full-Stack+Engineer+%7C+SaaS+Builder;Applied+AI+%7C+Remote-Ready;Laravel+%C2%B7+Vue.js+%C2%B7+TALL+Stack)](https://git.io/typing-svg)
 
-**Full-Stack Engineer · SaaS Builder · Applied AI**
+<br/>
 
-I build production systems that handle real users, real transactions, and real scale.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/numannasyarmz/)
-[![Open to Remote Work](https://img.shields.io/badge/Status-Open%20to%20Remote%20%26%20Freelance-2ea44f?style=flat)](https://www.linkedin.com/in/numannasyarmz/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-numenide.id-6366F1?style=flat&logo=safari&logoColor=white)](https://numenide.id)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/numenide/)
+[![GitHub](https://img.shields.io/badge/GitHub-numen111104-181717?style=flat&logo=github&logoColor=white)](https://github.com/numen111104)
+[![Profile Views](https://komarev.com/ghpvc/?username=numen111104&color=6366f1&style=flat&label=Profile+Views)](https://github.com/numen111104)
+[![Open to Remote](https://img.shields.io/badge/Status-Open%20to%20Remote%20%26%20Freelance-2ea44f?style=flat)](https://numenide.id)
 
 </div>
 
@@ -15,80 +18,135 @@ I build production systems that handle real users, real transactions, and real s
 
 ## About
 
+<table>
+<tr>
+<td valign="top" width="60%">
+
 I'm a full-stack engineer with end-to-end ownership experience across multiple live SaaS products — from database schema and API design to UI, deployment, and iteration based on real user feedback.
 
 My work focuses on building systems that are **reliable in production, maintainable over time, and genuinely useful to the people who depend on them.** Not side projects or tutorials. Actual platforms running in the wild.
 
 Currently based in Indonesia and actively targeting **remote engineering roles and freelance engagements** with international teams, startups, and product-focused companies.
 
+- **Stack:** Laravel · Vue.js · TALL Stack · TanStack
+- **Focus:** SaaS, system design, applied AI integration
+- **Portfolio:** [numenide.id](https://numenide.id)
+- **Available:** Remote full-time & freelance
+
+</td>
+<td valign="top" width="40%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="coding gif" />
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## What I Build
 
-- **SaaS platforms** — multi-tenant architecture, subscription workflows, role-based access, and everything in between
-- **Business operations systems** — POS, inventory, transaction processing, analytics dashboards
-- **Institutional platforms** — school management, digital administration, access control at the org level
-- **AI-powered features** — automation pipelines, intelligent workflows, applied LLM integrations inside real products
-- **Product-grade interfaces** — reactive, real-time UIs built for usability and performance, not just aesthetics
+<table>
+<tr>
+<td>🏗️ <b>SaaS Platforms</b></td>
+<td>Multi-tenant architecture, subscription workflows, role-based access</td>
+</tr>
+<tr>
+<td>🛒 <b>Business Systems</b></td>
+<td>POS, inventory, transaction processing, analytics dashboards</td>
+</tr>
+<tr>
+<td>🏫 <b>Institutional Platforms</b></td>
+<td>School management, digital administration, access control</td>
+</tr>
+<tr>
+<td>🤖 <b>AI-Powered Features</b></td>
+<td>Automation pipelines, intelligent workflows, applied LLM integrations</td>
+</tr>
+<tr>
+<td>🎨 <b>Product-Grade UIs</b></td>
+<td>Reactive, real-time interfaces built for usability — not just aesthetics</td>
+</tr>
+</table>
 
 ---
 
 ## Tech Stack
 
-**Backend**
+<div align="center">
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+**Backend & Database**
 
-**Frontend**
+[![My Skills](https://skillicons.dev/icons?i=laravel,php,mysql,postgres,redis)](https://skillicons.dev)
 
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=flat&logo=livewire&logoColor=white)
-![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat&logo=alpine.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![TanStack](https://img.shields.io/badge/TanStack-FF4154?style=flat&logo=reactquery&logoColor=white)
+**Frontend & UI**
+
+[![My Skills](https://skillicons.dev/icons?i=vue,tailwind,alpinejs,ts,js)](https://skillicons.dev)
 
 **Infrastructure & Tooling**
 
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=docker,nginx,linux,git,vite)](https://skillicons.dev)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=flat&logo=livewire&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat)
+![TanStack](https://img.shields.io/badge/TanStack-FF4154?style=flat&logo=reactquery&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 
-**Architecture**
-
-TALL Stack (Tailwind · Alpine · Laravel · Livewire) · Multi-tenant SaaS · REST & API-first design · Event-driven patterns · Modular, scale-ready architecture
+</div>
 
 ---
 
 ## Live Products
 
-These are production systems with active users — not portfolio pieces.
+> Production systems with active users — not portfolio pieces.
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### LineaWorks POS
+### 🖥️ LineaWorks POS
 **[pos.lineaworks.id](https://pos.lineaworks.id)**
 
-A cloud-based Point of Sale platform built for Indonesian SMEs. The system handles digital cashiering, menu and category management, real-time order processing, table management for restaurant operations, QR code ordering, and a sales analytics dashboard — all inside a multi-tenant architecture that supports multiple business accounts on a single deployment.
+Cloud-based Point of Sale platform for Indonesian SMEs. Handles digital cashiering, order processing, table management, QR code ordering, and a real-time sales analytics dashboard — all in a multi-tenant system supporting multiple business accounts on a single deployment.
 
-`Laravel` `Livewire` `Tailwind CSS` `MySQL` `Multi-tenant`
+`Laravel` `Livewire` `Tailwind` `MySQL` `Multi-tenant`
 
----
+</td>
+<td width="50%" valign="top">
 
-### SIMPEL IQIS — School Management System
+### 🏫 SIMPEL IQIS
 **[simpel.iqis.sch.id](https://simpel.iqis.sch.id)**
 
-A school information and management platform serving a live educational institution. Centralizes student records, academic operations, and staff access with role-based authentication and a clean institutional interface designed for daily administrative use.
+School information and management platform serving a live educational institution. Centralizes student records, academic operations, and staff access with role-based authentication and a clean institutional interface designed for daily use.
 
 `Laravel` `TALL Stack` `RBAC` `MySQL`
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Engineering Approach
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="380" alt="engineering gif"/>
+
+</div>
 
 Good engineering is a product decision before it's a technical one.
 
@@ -100,48 +158,66 @@ I take ownership of the full delivery cycle — requirements, architecture, impl
 
 ## Currently Focused On
 
-- Scaling LineaWorks to support additional business verticals and larger tenant volumes
-- Integrating AI-assisted features into SaaS workflows: smart reporting, automation, and LLM-powered UX
-- Deepening system design knowledge for high-availability and high-concurrency web applications
-- Exploring production-grade patterns for applied AI in business software
+```
+⚡ Scaling LineaWorks to support more business verticals & higher tenant volume
+🤖 Integrating AI features into SaaS — smart reporting, LLM-powered UX
+📐 System design for high-availability & high-concurrency web applications
+🔬 Production-grade patterns for applied AI in business software
+```
 
 ---
 
 ## GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=numen111104&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&hide_title=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=numen111104&theme=github_dark&layout=compact&hide_border=true" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=numen111104&theme=github-dark-blue&hide_border=true" width="60%" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=numen111104&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&hide_title=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=numen111104&theme=tokyonight&layout=compact&hide_border=true" width="48%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=numen111104&theme=tokyonight&hide_border=true" width="65%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=numen111104&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+
+</div>
 
 ---
 
 ## Available for Work
 
-I'm currently open to:
+<div align="center">
 
-| Type | Details |
+| | What I'm Open To |
 |---|---|
-| **Remote Full-Time** | Full-stack or backend engineering roles with international teams |
-| **Freelance / Contract** | SaaS product development, feature builds, and technical architecture |
-| **Long-term Collaboration** | Embedded work with product-focused startups and software studios |
-| **Technical Consulting** | Laravel ecosystem, SaaS architecture, AI integration strategy |
+| 🌍 **Remote Full-Time** | Full-stack or backend engineering roles with international teams |
+| 💼 **Freelance / Contract** | SaaS product development, feature builds, technical architecture |
+| 🤝 **Long-term Collaboration** | Embedded work with product-focused startups and software studios |
+| 🧠 **Technical Consulting** | Laravel ecosystem, SaaS architecture, AI integration strategy |
 
 I work well asynchronously, communicate clearly across time zones, and deliver systems built to last beyond the initial release.
+
+</div>
 
 ---
 
 ## Contact
 
-**LinkedIn:** [linkedin.com/in/numannasyarmz](https://www.linkedin.com/in/numannasyarmz/)
-
-The best way to reach me is via LinkedIn. Response time is typically within 24 hours.
-
----
-
 <div align="center">
-<sub>Building reliable systems, one production deploy at a time.</sub>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-numenide.id-6366F1?style=for-the-badge&logo=safari&logoColor=white)](https://numenide.id)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/numenide/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/numen111104)
+
+The best way to reach me is via **LinkedIn** or through my **[portfolio site](https://numenide.id)**.
+Response time is typically within 24 hours.
+
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
