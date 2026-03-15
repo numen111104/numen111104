@@ -122,66 +122,140 @@ Currently based in Indonesia and actively targeting **remote engineering roles a
 
 <div align="center">
 
-**Backend & Database**
+**Backend & Languages**
 
-[![Skills](https://skillicons.dev/icons?i=laravel,php,mysql,postgres,redis&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=laravel,php,python,js,ts&theme=dark)](https://skillicons.dev)
+
+**Database**
+
+[![Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite,redis&theme=dark)](https://skillicons.dev)
 
 **Frontend & UI**
 
-[![Skills](https://skillicons.dev/icons?i=vue,tailwind,alpinejs,ts,js&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=vue,tailwind,alpinejs,vite&theme=dark)](https://skillicons.dev)
 
 **Backend as a Service**
 
 [![Skills](https://skillicons.dev/icons?i=supabase,firebase&theme=dark)](https://skillicons.dev)
 
+<table border="0">
+<tr>
+<td align="center" width="80">
+<img src="https://cdn.simpleicons.org/googlesheets/34A853" width="48" height="48"/><br/>
+<sub><b>Sheets API</b></sub>
+</td>
+</tr>
+</table>
+
 **Infrastructure & Tooling**
 
-[![Skills](https://skillicons.dev/icons?i=docker,nginx,linux,git,vite&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=docker,nginx,linux,git&theme=dark)](https://skillicons.dev)
+
+<table border="0">
+<tr>
+<td align="center" width="80">
+<img src="https://cdn.simpleicons.org/googlesearchconsole/458CF5" width="48" height="48"/><br/>
+<sub><b>Search Console</b></sub>
+</td>
+<td align="center" width="80">
+<img src="https://cdn.simpleicons.org/databricks/FF3621" width="48" height="48"/><br/>
+<sub><b>dbdiagram.io</b></sub>
+</td>
+</tr>
+</table>
 
 **Cloud & Hosting**
 
-[![Skills](https://skillicons.dev/icons?i=aws,gcp&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=aws,gcp,github&theme=dark)](https://skillicons.dev)
 
-![Alibaba Cloud](https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white)
-![aaPanel](https://img.shields.io/badge/aaPanel-20A53A?style=flat-square&logo=linux&logoColor=white)
-![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white)
-![HestiaCP](https://img.shields.io/badge/HestiaCP-3794D4?style=flat-square&logoColor=white)
+<table border="0">
+<tr>
+<td align="center" width="80">
+<img src="https://cdn.simpleicons.org/alibabacloud/FF6A00" width="48" height="48"/><br/>
+<sub><b>Alibaba Cloud</b></sub>
+</td>
+<td align="center" width="80">
+<img src="https://cdn.simpleicons.org/cpanel/FF6C2C" width="48" height="48"/><br/>
+<sub><b>cPanel</b></sub>
+</td>
+<td align="center" width="80">
+<img src="https://cdn.simpleicons.org/hostinger/673DE6" width="48" height="48"/><br/>
+<sub><b>Hostinger</b></sub>
+</td>
+<td align="center" width="80">
+<img src="https://cdn.simpleicons.org/aapanel/20A53A" width="48" height="48"/><br/>
+<sub><b>aaPanel</b></sub>
+</td>
+<td align="center" width="80">
+<img src="https://cdn.simpleicons.org/hestiacp/3794D4" width="48" height="48"/><br/>
+<sub><b>HestiaCP</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Rumahweb-E6232E?style=flat-square&logoColor=white" /><br/>
+<sub><b>Rumahweb</b></sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Niagahoster-753BBD?style=flat-square&logoColor=white" /><br/>
+<sub><b>Niagahoster</b></sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/IDCloudHost-003F8C?style=flat-square&logoColor=white" /><br/>
+<sub><b>IDCloudHost</b></sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/JagoanHosting-FF6600?style=flat-square&logoColor=white" /><br/>
+<sub><b>JagoanHosting</b></sub>
+</td>
+</tr>
+</table>
 
-<br/>
+**AI Tools**
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=flat-square&logo=livewire&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square)
-![TanStack](https://img.shields.io/badge/TanStack-FF4154?style=flat-square&logo=reactquery&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![dbdiagram](https://img.shields.io/badge/dbdiagram.io-2C3E50?style=flat-square&logo=databricks&logoColor=white)
-![Google Search Console](https://img.shields.io/badge/Search_Console-4285F4?style=flat-square&logo=googlesearchconsole&logoColor=white)
-
-<br/>
-
-**AI Tools I Work With**
-
-![Claude](https://img.shields.io/badge/Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-0D6EFD?style=flat-square&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
-
-<br/>
+<table border="0">
+<tr>
+<td align="center" width="80">
+<img src="https://cdn.simpleicons.org/anthropic/CC785C" width="48" height="48"/><br/>
+<sub><b>Claude</b></sub>
+</td>
+<td align="center" width="80">
+<img src="https://cdn.simpleicons.org/openai/10A37F" width="48" height="48"/><br/>
+<sub><b>ChatGPT</b></sub>
+</td>
+<td align="center" width="80">
+<img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="48" height="48"/><br/>
+<sub><b>Gemini</b></sub>
+</td>
+<td align="center" width="80">
+<img src="https://cdn.simpleicons.org/deepseek/4D6BFE" width="48" height="48"/><br/>
+<sub><b>DeepSeek</b></sub>
+</td>
+<td align="center" width="80">
+<img src="https://cdn.simpleicons.org/ollama/FFFFFF" width="48" height="48"/><br/>
+<sub><b>Ollama</b></sub>
+</td>
+</tr>
+</table>
 
 **Terminal & Dev Environment**
 
-[![Skills](https://skillicons.dev/icons?i=bash&theme=dark)](https://skillicons.dev)
-
-![iTerm2](https://img.shields.io/badge/iTerm2-000000?style=flat-square&logo=iterm2&logoColor=white)
-![Git Bash](https://img.shields.io/badge/Git_Bash-F05032?style=flat-square&logo=git&logoColor=white)
+<table border="0">
+<tr>
+<td align="center" width="80">
+<img src="https://cdn.simpleicons.org/iterm2/000000" width="48" height="48"/><br/>
+<sub><b>iTerm2</b></sub>
+</td>
+<td align="center" width="80">
+<img src="https://cdn.simpleicons.org/git/F05032" width="48" height="48"/><br/>
+<sub><b>Git Bash</b></sub>
+</td>
+<td align="center" width="80">
+<img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="48" height="48"/><br/>
+<sub><b>Bash</b></sub>
+</td>
+</tr>
+</table>
 
 </div>
 
